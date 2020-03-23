@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-
+//THIS WAS FOR A MY COMP 2230 MIDTERM ON MARCH 21
 
 /**
  *
